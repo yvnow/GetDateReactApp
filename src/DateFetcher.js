@@ -4,7 +4,9 @@ import Axios from 'axios';
 export class DateFetcher extends Component {
     state={
         loading:true,
-        todayDate:'Loading'
+        localIPV4:'Loading',
+        localDate:'Loading',
+        localTime:'Loading',
     }
     async componentDidMount(){
         const publicIp = require('public-ip');
