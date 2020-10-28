@@ -4,7 +4,7 @@ From API "http://worldclockapi.com/api/json/est/now"
 
 Source : http://worldclockapi.com/
 
-
+Output can be seen in Output_DateFetcher.jpg 
 
 
 
