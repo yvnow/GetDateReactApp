@@ -1,3 +1,24 @@
+This App shows current EST Date
+
+From API "http://worldclockapi.com/api/json/est/now"
+
+Source : http://worldclockapi.com/
+
+
+
+
+
+
+
+
+##############################
+Below is react Info
+##############################
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
